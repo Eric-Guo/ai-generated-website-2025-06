@@ -8,6 +8,11 @@ This is an [Onlook](https://onlook.com/) project set up with
 [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/) and
 [ShadCN](https://ui.shadcn.com).
 
+The prompt is:
+
+Create a business website with only one landing page, the bussiness is logistics relative, company main product is an AI assistant to help query the logistics information, please using tailwindcss and optimize for SEO.
+
+
 ## Getting Started
 
 First, run the development server:
