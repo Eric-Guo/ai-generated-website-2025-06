@@ -46,7 +46,7 @@ export default function Page() {
                 <link rel="canonical" href="https://logiai.com" data-oid="c-r5uoz" />
             </head>
 
-            <div
+            <body
                 className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100"
                 data-oid="cy69o0w"
             >
@@ -931,7 +931,7 @@ export default function Page() {
                         </div>
                     </div>
                 </footer>
-            </div>
+            </body>
         </>
     );
 }
