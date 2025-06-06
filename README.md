@@ -12,6 +12,10 @@ The prompt is:
 
 Create a business website with only one landing page, the bussiness is logistics relative, company main product is an AI assistant to help query the logistics information, please using tailwindcss and optimize for SEO.
 
+## Preview link
+
+https://epdqwgtcvxv6wtcg7jqqb.onlook.live
+
 
 ## Getting Started
 
