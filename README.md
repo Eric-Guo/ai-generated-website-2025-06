@@ -13,8 +13,6 @@ This is an [Onlook](https://onlook.com/) project set up with
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
 # or
 pnpm dev
