@@ -196,7 +196,7 @@ export default function Page() {
                                 data-oid="q-ck1fy"
                             >
                                 <button
-                                    className="bg-indigo-600 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-indigo-700 transition-colors shadow-lg"
+                                    className="bg-orange-500 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-orange-600 transition-colors shadow-lg"
                                     data-oid="nwj8b14"
                                 >
                                     Start Free Trial
